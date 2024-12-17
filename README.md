@@ -15,7 +15,10 @@
 💬 Ask me about Bot Development, API Integration, and Full Stack Development  
 📫 My Portofolio : [portofolio.mrfh.site](https://portofolio.mrfh.site/)  
 🌍 Based in Jakarta, Indonesia  
-🔒 Note: Some projects are private due to privacy concerns or company policies. Reach out if you'd like to know more!
+🔒 Note: Some projects are private due to privacy concerns or company policies. Reach out if you'd like to know more!  
+
+<img src="https://komarev.com/ghpvc/?username=muhamadrafihq&style=flat-square&color=blue" alt=""/>
+
 
 ## 💻 Languages
 
