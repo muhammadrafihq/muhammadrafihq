@@ -1,3 +1,4 @@
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
 
 <p align="center" style="background-image: url('https://github.com/muhammadrafihq/muhammadrafihq/blob/main/bg.jpg'); background-color: black; padding: 50px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=33FF99¢er=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Muhammad+Rafi;Full+Stack+Developer;Always+Learning+New+Things" alt="Hello, I'm Muhammad Rafi; Full Stack Developer; Always Learning New Things"/>
