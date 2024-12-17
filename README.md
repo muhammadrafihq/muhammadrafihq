@@ -1,6 +1,8 @@
-<p align="center" style="background-color: black; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=33FF99¢er=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Muhammad+Rafi;Full+Stack+Developer;Always+Learning+New+Things"/>
+
+<p align="center" style="background-image: url('https://github.com/muhammadrafihq/muhammadrafihq/blob/main/bg.jpg'); background-color: black; padding: 50px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=33FF99¢er=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Muhammad+Rafi;Full+Stack+Developer;Always+Learning+New+Things" alt="Hello, I'm Muhammad Rafi; Full Stack Developer; Always Learning New Things"/>
 </p>
+
 
 
 
