@@ -56,9 +56,13 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=github-actions)
 
 ### AI/ML
+
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai)
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-000?style=for-the-badge&logo=google&logoColor=4285F4)
+![Claude](https://img.shields.io/badge/-Claude%20AI-000?style=for-the-badge&logo=anthropic&logoColor=white)
+![LLaMA](https://img.shields.io/badge/-LLaMA-000?style=for-the-badge&logo=meta&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -82,8 +86,3 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadrafihq&&style=flat-square" align="center" />
-</div>
