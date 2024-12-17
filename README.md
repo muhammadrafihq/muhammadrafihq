@@ -1,3 +1,91 @@
+@primaryClr: #fed75a; 
+@pacman-zise: 70px;
+
+body {
+  background: #1d1d1d;
+  height: 100%;
+}
+
+.pac-man {
+  border-radius: 50%;
+  margin: 0 auto;
+  margin-top: 5em;
+  border-radius: 100em 100em 0 0;
+  background: #f00;
+  transform-origin: bottom;
+  animation: eating-top .5s infinite;
+  
+  &, &::before {
+    width: @pacman-zise;
+    height: calc(@pacman-zise/2);
+    background: @primaryClr;
+  }
+  
+  &::before {
+    content: '';
+    display: block;
+    margin-top: calc(@pacman-zise/2);
+    position: absolute;
+    transform-origin: top;
+    border-radius: 0 0 100em 100em;
+    transform: rotate(80deg);
+    animation: eating-bottom .5s infinite;
+  }
+  
+  &::after {
+    position: absolute;
+    border-radius: 100em;
+    content: '';
+    display: block;
+    height: 20px;
+    width: 20px;
+    margin-top: calc((@pacman-zise / 2) - 10px);
+    margin-left: calc((@pacman-zise / 2) - 10px);
+    transform-origin: center;
+    animation: 
+      center .5s infinite,
+      ball .5s -.33s infinite linear;
+  }
+}
+
+@keyframes eating-top{
+  0%{ transform: rotate(-40deg); }
+  50% { transform: rotate(0deg); }
+  100%{ transform: rotate(-40deg); }
+}
+
+@keyframes eating-bottom{
+  0%{ transform: rotate(80deg); }
+  50% { transform: rotate(0deg); }
+  100%{ transform: rotate(80deg); }
+}
+
+@keyframes center{
+  0%{ transform: rotate(40deg); }
+  50% { transform: rotate(0deg); }
+  100%{ transform: rotate(40deg); }
+}
+
+@keyframes ball{
+  0%{ 
+    opacity: .7;
+    box-shadow: 
+      70px 0 0 0 @primaryClr,
+      120px 0 0 0 @primaryClr,
+      170px 0 0 0 @primaryClr,
+      220px 0 0 0 @primaryClr
+    ;
+  }
+  100% { 
+    box-shadow: 
+      20px 0 0 0 @primaryClr,
+      70px 0 0 0 @primaryClr,
+      120px 0 0 0 @primaryClr,
+      170px 0 0 0 @primaryClr
+    ;
+  }
+  
+}
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=33FF99¢er=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Muhammad+Rafi;Full+Stack+Developer;Always+Learning+New+Things"/>
 </div>
@@ -88,4 +176,8 @@
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" style="margin-bottom: 5px;" />
   </a>
 </div>
+
+<div class='pac-man' />
+
+
 
