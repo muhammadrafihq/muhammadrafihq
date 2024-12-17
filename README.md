@@ -9,9 +9,8 @@
 👯 I'm looking to collaborate on open source projects  
 💬 Ask me about Bot Development, API Integration, and Full Stack Development  
 📫 Reach me at: [portofolio.mrfh.site](https://portofolio.mrfh.site/)  
-🌍 Based in Jakarta, Indonesia
+🌍 Based in Jakarta, Indonesia  
 🔒 Note: Some projects are private due to privacy concerns or company policies. Reach out if you'd like to know more!
-
 
 ## 💻 Languages
 
