@@ -1,8 +1,5 @@
-<div style="text-align:center;">
-  <div style="width:100%;height:0;padding-bottom:100%;position:relative;margin-bottom:20px;">
-    <iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-  </div>
-  <p><a href="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO" target="_blank">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdzbzhiMDF1MTQ2a29lemV6ZDd3dW5nMnExdGV1dmJidWxyYnA1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
 </div>
 
 <p align="center" style="background-image: url('https://github.com/muhammadrafihq/muhammadrafihq/blob/main/bg.jpg'); background-color: black; padding: 50px; background-size: cover; background-position: center;">
