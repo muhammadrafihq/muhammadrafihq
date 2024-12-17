@@ -1,6 +1,14 @@
-# 👋 Hi, I'm Muhammad Rafi
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Muhammad+Rafi+👋;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
 
-Software Developer based in Jakarta, Indonesia who is passionate about building solutions and contributing to open-source projects.
+# 💫 About Me
+🔭 I'm currently working on AI-powered chat bots and API development  
+🌱 I'm currently learning Cloud Architecture and AI/ML  
+👯 I'm looking to collaborate on open source projects  
+💬 Ask me about Bot Development, API Integration, and Full Stack Development  
+📫 Reach me at: [portofolio.mrfh.site](https://portofolio.mrfh.site/)  
+🌍 Based in Jakarta, Indonesia
 
 ## 💻 Languages
 
@@ -14,26 +22,91 @@ Software Developer based in Jakarta, Indonesia who is passionate about building 
 ![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-000?style=for-the-badge&logo=Swift)
 ![.NET](https://img.shields.io/badge/-.NET%208.0-000?style=for-the-badge&logo=dotnet)
+![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=for-the-badge&logo=kotlin)
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+### Frontend Development
 ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow)
-![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js)
 ![Redux](https://img.shields.io/badge/-Redux-000?style=for-the-badge&logo=redux)
 ![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-000?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-000?style=for-the-badge&logo=Spring)
+![Django](https://img.shields.io/badge/-Django-000?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=for-the-badge&logo=fastapi)
+
+### Database & Cloud
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=Amazon-AWS&logoColor=F90)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=Redis)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000?style=for-the-badge&logo=supabase)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=github-actions)
+![Jenkins](https://img.shields.io/badge/-Jenkins-000?style=for-the-badge&logo=jenkins)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=for-the-badge&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=pytorch)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?style=for-the-badge&logo=openai)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=muhammadrafihq&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gotham" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafihq&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadrafihq&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrafihq&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrafihq&theme=gotham" alt="muhammadrafihq" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadrafihq&theme=matrix&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Whatsapp Bot](https://github-readme-stats.vercel.app/api/pin/?username=muhammadrafihq&repo=Whatsapp-bot-ai-gemini&theme=gotham)](https://github.com/muhammadrafihq/Whatsapp-bot-ai-gemini)
+[![Telegram Bot](https://github-readme-stats.vercel.app/api/pin/?username=muhammadrafihq&repo=Telegram-bot-ai-gemini&theme=gotham)](https://github.com/muhammadrafihq/Telegram-bot-ai-gemini)
+
+</div>
+
+## 🔍 Where to find me
+
+<div align="center">
+  <a href="https://github.com/muhammadrafihq" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://portofolio.mrfh.site/" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="website" style="margin-bottom: 5px;" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadrafihq&&style=flat-square" align="center" />
 </div>
