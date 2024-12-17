@@ -8,6 +8,7 @@
 💬 Ask me about Bot Development, API Integration, and Full Stack Development  
 📫 Reach me at: [portofolio.mrfh.site](https://portofolio.mrfh.site/)  
 🌍 Based in Jakarta, Indonesia
+🔒 Some project is private
 
 ## 💻 Languages
 
