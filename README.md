@@ -1,9 +1,7 @@
+<p align="center" style="background-color: black; padding: 20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=33FF99¢er=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Muhammad+Rafi;Full+Stack+Developer;Always+Learning+New+Things"/>
+</p>
 
-<div style="width: 100%; height: 100vh; background-color: black; margin: 0; padding: 0;">
-  <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=30&duration=4000&pause=1000&color=33FF99¢er=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Muhammad+Rafi;Full+Stack+Developer;Always+Learning+New+Things"/>
-  </div>
-</div>
 
 
 
