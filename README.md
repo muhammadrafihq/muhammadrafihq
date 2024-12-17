@@ -10,8 +10,8 @@ Software Developer based in Jakarta, Indonesia who is passionate about building 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Flutter]([https://img.shields.io/badge/-Swift-000?&logo=Swift](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white))
-![SQL]([https://img.shields.io/badge/-SQL-000?&logo=MySQL](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white))
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 
 
